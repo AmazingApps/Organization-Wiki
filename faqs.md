@@ -14,11 +14,11 @@
 
    但是强烈建议您使用GitHub账户：
 
-   * [新建一个issue](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues/new)并注明应用名称及官网
+   * 在对应项目新建一个issue注明应用名称及官网
      * 如果您不知道该说什么，您也可以卖个萌
-   * 向我[发送pull request](https://github.com/EMLVIRUS/Amazing-Windows-Apps/pull/new/master)直接修改。
+   * 向对应项目发送直接修改。
 
-     无论如何，贡献都是受欢迎的。另外，强烈建议您通读[贡献指引](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki/Contribution-Guidelines-贡献指引)
+     无论如何，贡献都是受欢迎的。另外，强烈建议您通读[贡献指引](/contribution-guidelines.md)
 
 3. 这里面的软件有可疑行为！！！
 
@@ -44,11 +44,11 @@
 
     But it is strongly recommended to use GitHub account to:
 
-    * [create a new issue](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues/new\) with app name & official web
+    * create a new issue with app name & official web on corresponding repository.
 
-    * [send me pull request](https://github.com/EMLVIRUS/Amazing-Windows-Apps/pull/new/master) to fix it directly. 
+    * send me pull request to fix it directly. 
 
-    Contribution is always welcome anyway. Plus, pls also go through [contribution guidelines](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki/Contribution-Guidelines-%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%BC%95)
+    Contribution is always welcome anyway. Plus, pls also go through [contribution guidelines](/contribution-guidelines.md).
 
 3. Hey. PUA in your list!!!!
 
