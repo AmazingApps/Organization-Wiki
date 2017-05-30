@@ -2,15 +2,15 @@
 
 ---
 
-1. 我可以引用项目本身的内容吗？
+1. 我可以引用组织内项目本身的内容吗？
 
-   当然可以。只要记得声明[GitBook项目来源](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)即可。
+   当然可以。只要记得声明[项目来源](http://amazingapps.org/)即可。
 
 2. 我可以建议添加新应用吗？如果我是本应用开发者呢？如何进行？
 
    欢迎任何人建议添加新应用以贡献列表。
 
-   您可以[通过邮件](mailto:EMLVIRUS@outlook.com)向我反馈，注意说明应用名称与官网。
+   您可以[通过邮件](mailto:public@amazingapps.org)反馈，注意说明应用名称与官网。
 
    但是强烈建议您使用GitHub账户：
 
@@ -22,7 +22,7 @@
 
 3. 这里面的软件有可疑行为！！！
 
-   如果你发现有可疑的行为，请参考问题2中方式给出建议并说明具体行为。我将尽快进行调查。
+   如果你发现有可疑的行为，请参考问题2中方式给出建议并说明具体行为。我们将尽快进行调查。
 
 4. 为何未启用GitBook的电子书生成功能？
 
@@ -34,13 +34,13 @@
 
 1. Can I quote any content?
 
-    Of course you can. Just remember to claim [GitBook source](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us).
+    Of course you can. Just remember to claim [source](http://amazingapps.org/).
 
 2. Can I suggestion a new app? What if I am developer of the app? And how?
 
     Anyone is welcome to suggest a new app to contribute. 
 
-    You can send me feedback via [email](mailto:EMLVIRUS@outlook.com).
+    You can send feedback via [email](mailto:public@amazingapps.org).
 
     But it is strongly recommended to use GitHub account to:
 
@@ -52,7 +52,8 @@
 
 3. Hey. PUA in your list!!!!
 
-    Please refer Q2 to give your suggestion. I will investigate into it asap.
+    Please refer Q2 to give your suggestion. We will investigate into it asap.
 
 4. Why didn't you enable ebooks generation on GitBook?
 
+    Considering that how great update the work amount and how high update frequency can be, a stable ebook release is NOT practical at all.

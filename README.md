@@ -10,6 +10,8 @@
 
 ⚠️本列表中应用在添加时尽管经过测试，但是由于软件更新变更版本的过程中可能引入其它问题并且本列表可能无法及时修正，因此无法担保任何可能带来的风险。对于用户而言，最重要的还是分辨能力与使用习惯
 
+[返回主页](http://amazingapps.org/)
+
 ---
 
 This repo aims to collect excellent Windows apps to save time from finding them.
@@ -20,5 +22,4 @@ This repo is edited and pushed to GitBook server with GitBook Editor. Later chan
 
 ⚠️Although all apps are listed here after testing, but it can still introduce problem by updating versions. This repository may not update to keep up so they come with no guaranty. What matters most is still your habits and ability to distinguish.
 
-
-
+[Homepage](http://amazingapps.org/)
