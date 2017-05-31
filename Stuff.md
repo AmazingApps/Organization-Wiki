@@ -26,7 +26,7 @@
 
 <img src="https://avatars3.githubusercontent.com/u/17057917?v=3&s=50"/>
 
-[Semoz](https://github.com/Semoz): ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄
+[Semoz](https://github.com/Semoz): ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ Lost in my girl
 
 <img src="https://avatars2.githubusercontent.com/u/26290153?v=3&s=50"/>
 
