@@ -8,6 +8,10 @@
 
 [ivysrono](https://github.com/ivysrono):
 
+<img src="https://avatars2.githubusercontent.com/u/4530897?v=3&s=50"/>
+
+[lixuy (kissshot)](https://github.com/lixuy): 咸鱼大颗 咸鱼切片 ~死肥宅~ 零散坑坑主
+
 <img src="https://avatars0.githubusercontent.com/u/12861134?v=3&s=50"/>
 
 [lrinQVQ (lrin)](https://github.com/lrinQVQ): (｡´∀｀)ﾉ
