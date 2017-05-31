@@ -6,7 +6,7 @@
 
 <img src="https://avatars1.githubusercontent.com/u/2649544?v=3&s=50" width="50px" height="50px" />
 
-[ivysrono](https://github.com/ivysrono):
+[ivysrono](https://github.com/ivysrono): 加班狗不配有介绍
 
 <img src="https://avatars2.githubusercontent.com/u/4530897?v=3&s=50"/>
 
