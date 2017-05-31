@@ -22,7 +22,7 @@
 
 <img src="https://avatars0.githubusercontent.com/u/716584?v=3&s=50"/>
 
-[scavin](https://github.com/scavin):
+[scavin](https://www.appinn.com)
 
 <img src="https://avatars3.githubusercontent.com/u/17057917?v=3&s=50"/>
 
