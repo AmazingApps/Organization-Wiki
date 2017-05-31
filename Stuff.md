@@ -14,7 +14,7 @@
 
 <img src="https://avatars1.githubusercontent.com/u/6477565?v=3&s=50"/>
 
-[lzcykevin (Frank)](https://github.com/lzcykevin):
+[lzcykevin (Frank)](https://github.com/lzcykevin): a lazy programmer
 
 <img src="https://avatars3.githubusercontent.com/u/6070540?v=3&s=50"/>
 
