@@ -4,10 +4,23 @@
 
 [EMLVIRUS](https://github.com/EMLVIRUS): yet another fair loser
 
+<img src="https://avatars0.githubusercontent.com/u/12861134?v=3&s=50"/>
+
+[ivysrono](https://github.com/ivysrono):
+
+<img src="https://avatars0.githubusercontent.com/u/12861134?v=3&s=50"/>
+
+[lrinQVQ (lrin)](https://github.com/lrinQVQ):
+
+<img src="https://avatars3.githubusercontent.com/u/6070540?v=3&s=50"/>
+
+[taroxd](https://github.com/taroxd): _  (:з」∠)  _
+
 <img src="https://avatars2.githubusercontent.com/u/26290153?v=3&s=50"/>
 
 [venmos (Kuroi Mato)](https://venmos.com/): Lolikon
 
-<img src="https://avatars3.githubusercontent.com/u/6070540?v=3&s=50"/>
+<img src="https://avatars3.githubusercontent.com/u/12028138?v=3&s=50"/>
 
-[taroxd](https://github.com/taroxd): _ (:з」∠) _
+[ysc3839 (Richard Yu)](https://github.com/ysc3839):
+
