@@ -26,7 +26,7 @@
 
 <img src="https://avatars0.githubusercontent.com/u/716584?v=3&s=50"/>
 
-[scavin](https://www.appinn.com)
+[scavin](https://www.appinn.com): Owner of appinn
 
 <img src="https://avatars3.githubusercontent.com/u/17057917?v=3&s=50"/>
 
@@ -38,4 +38,4 @@
 
 <img src="https://avatars3.githubusercontent.com/u/12028138?v=3&s=50"/>
 
-[ysc3839 (Richard Yu)](https://github.com/ysc3839):
+[ysc3839 (Richard Yu)](https://github.com/ysc3839): A student who love programming
