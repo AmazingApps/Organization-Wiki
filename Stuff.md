@@ -10,7 +10,7 @@
 
 <img src="https://avatars0.githubusercontent.com/u/12861134?v=3&s=50"/>
 
-[lrinQVQ (lrin)](https://github.com/lrinQVQ):
+[lrinQVQ (lrin)](https://github.com/lrinQVQ): (｡´∀｀)ﾉ
 
 <img src="https://avatars1.githubusercontent.com/u/6477565?v=3&s=50"/>
 
