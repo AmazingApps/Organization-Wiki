@@ -36,6 +36,10 @@
 
 [venmos (Kuroi Mato)](https://venmos.com/): Lolikon
 
+<img src="https://avatars1.githubusercontent.com/u/9410171?v=3&s=50"/>
+
+[xieguigang](https://github.com/xieguigang):中二病でも恋がしたい！ 捡破烂的真 dalao？Σ(っ °Д °;)っ
+
 <img src="https://avatars3.githubusercontent.com/u/12028138?v=3&s=50"/>
 
 [ysc3839 (Richard Yu)](https://github.com/ysc3839): A student who love programming
