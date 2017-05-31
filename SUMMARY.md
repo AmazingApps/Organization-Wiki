@@ -9,3 +9,12 @@
 * [Stuff 团队成员](Stuff.md)
 * [Workflow 工作流程](workflow.md)
 
+## Global Lists
+
+* [Donators 捐助者](Global-Lists/donators.md)
+
+## Windows Lists
+
+* [Main Contributors 主要贡献人](windows-lists/main.md)
+* [Other Individuals 其他个人](windows-lists/others.md)
+* [3p Advertisement 第三方宣传](windows-lists/3p.md)
