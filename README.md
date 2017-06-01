@@ -12,6 +12,12 @@
 
 ⚠️本列表中应用在添加时尽管经过测试，但是由于软件更新变更版本的过程中可能引入其它问题并且本列表可能无法及时修正，因此无法担保任何可能带来的风险。对于用户而言，最重要的还是分辨能力与使用习惯
 
+### 授权协议
+
+* [组织首页](http://amazingapps.org/)源代码：CC BY-NC-SA 4.0
+* [Amazing Windows Apps](https://github.com/AmazingApps/Amazing-Windows-Apps): GNU GPL 2.0
+* 其余项目及相关代码：GNU GPL 3.0
+
 [返回主页](http://amazingapps.org/)
 
 ---
@@ -27,3 +33,9 @@ You are NOT allowed to make a profit with any contents in any repository in this
 ⚠️Although all apps are listed here after testing, but it can still introduce problem by updating versions. This repository may not update to keep up so they come with no guaranty. What matters most is still your habits and ability to distinguish.
 
 [Homepage](http://amazingapps.org/)
+
+### LICENSE
+
+* [Or Home](http://amazingapps.org/): CC BY-NC-SA 4.0
+* [Amazing Windows Apps](https://github.com/AmazingApps/Amazing-Windows-Apps): GNU GPL 2.0
+* The rest of repositories & their code: GNU GPL 3.0
