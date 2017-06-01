@@ -12,6 +12,7 @@
 ## Global Lists
 
 * [Donators 捐助者](Global-Lists/donators.md)
+* [Stuff 团队成员](Global-Lists/Stuff.md)
 
 ## Windows Lists
 
