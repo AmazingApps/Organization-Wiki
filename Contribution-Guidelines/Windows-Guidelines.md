@@ -15,7 +15,7 @@
         * 如果给出符合 [黑名单](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/blacklist.md) 的条件，作用是等效的，此时还会考虑拉黑
      2. 其它违反行业基本守则的行为同样会被考虑
  
-** 如果您不了解 Markdown 语法格式，请勿创建 pull request，请新建一个 issue**
+###### **如果您不了解 Markdown 语法格式，请勿创建 pull request，请新建一个 issue**
 
 * 当您创建一个添加新应用的 pull request 时：
     1. 请确认该应用符合 [README](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/README.md) 当中的条件
@@ -33,15 +33,14 @@
         2. （仍在维护但）长期未更新且无明显 bug 的；若不清楚该应用是否仍被维护，请使用删除线表示。
         3. 除 C++、.Net framework 等之外需要其它额外运行库的，如 Java
     5. 在 [README](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/README.md) 的计数 badge 处 + 1，并在 [acknowledgement](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/acknowledgement.md) 处添加您的信息
-        * ** 如果您不清楚具体实现方式，请到此为止 **
+        * **如果您不清楚具体实现方式，请到此为止**
 
 * 当您创建一个移除应用的 pull request 时：
     1. 如果该应用符合 [README](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/README.md) 当中的争议条件，请添加删除线并移除官网链接
     2. 如果该应用符合 [黑名单](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/blacklist.md) 的条件，请将其在分类中删除，添加到黑名单，并添加符合的拉黑标准
     3. 在 [README](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/README.md) 的计数 badge 处 - 1，并在 [acknowledgement](https://github.com/EMLVIRUS/Amazing-Windows-Apps/blob/master/acknowledgement.md) 处添加您的信息
-        * ** 如果您不清楚具体实现方式，请到此为止 **
+        * **如果您不清楚具体实现方式，请到此为止**
 
-如果您有其它疑问，请 [联系 owner](https://t.me/EMLVIRUS)
 ---
 
 Any contribution to the repository is always welcome and grateful. If you expect better experience, please go through contents below:
@@ -83,6 +82,4 @@ Any contribution to the repository is always welcome and grateful. If you expect
     1. if it is controversial as described in [README](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/README.md), remove official link and strike it through
     2. if it should be included in the [blacklist](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/blacklist.md), delete it category, add it to black list with the condition number
     3. Substract 1 from the badge in [README](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/README.md) and add your info to [acknowledgement](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/acknowledgement.md)
-        * **stop by this step if you don't know how detailedly**
-
-If any other questions, please [contact owner](https://t.me/EMLVIRUS)
+        * **stop by this step if you don't know how to implement this**
