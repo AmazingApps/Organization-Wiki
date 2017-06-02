@@ -10,7 +10,8 @@
 
 ## Contribution Guidelines
 
-* [Windows Guidelines Windows 指引](Contribution-Guidelines/Windows-Guidelines.md)
+* [Windows](Contribution-Guidelines/Windows-Guidelines.md)
+* [Firefox 火狐扩展](Contribution-Guidelines/firefox-huo-hu-kuo-zhan.md)
 
 ## Global Lists
 
@@ -22,3 +23,4 @@
 * [Main Contributors 主要贡献人](windows-lists/main.md)
 * [Other Individuals 其他个人](windows-lists/others.md)
 * [3p Advertisement 第三方宣传](windows-lists/3p.md)
+

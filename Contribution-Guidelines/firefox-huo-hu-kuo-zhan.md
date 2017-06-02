@@ -1,0 +1,1 @@
+### Firefox Extension Guildlines 火狐扩展指引

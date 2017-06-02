@@ -1,4 +1,4 @@
-## Contribution Guidelines for Windows｜Windows 贡献指引
+#### Contribution Guidelines for Windows｜Windows 贡献指引
 
 首先，对于任何贡献表示欢迎和感谢。阅读以下内容将进一步帮助本项目变得更好：
 
