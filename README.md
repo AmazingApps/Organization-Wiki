@@ -12,9 +12,7 @@
 
 ### 授权协议
 
-* [组织首页](http://amazingapps.org/)源代码：CC BY-NC-SA 4.0
-* [Amazing Windows Apps](https://github.com/AmazingApps/Amazing-Windows-Apps): GNU GPL 2.0
-* 其余项目及相关代码：GNU GPL 3.0
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 除非特别声明，否则组织中所有项目协议均为：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 [返回主页](http://amazingapps.org/)
 
@@ -31,7 +29,4 @@ You are NOT allowed to make a profit with any contents in any repository in this
 [Homepage](http://amazingapps.org/)
 
 ### LICENSE
-
-* [Or Home](http://amazingapps.org/): CC BY-NC-SA 4.0
-* [Amazing Windows Apps](https://github.com/AmazingApps/Amazing-Windows-Apps): GNU GPL 2.0
-* The rest of repositories & their code: GNU GPL 3.0
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
