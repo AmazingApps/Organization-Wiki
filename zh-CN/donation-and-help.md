@@ -8,10 +8,3 @@
 
 当然，您可以在组织其他个人同意的情况下向他们捐助。
 
----
-
-As far as [@EMLVIRUS](https://github.com/EMLVIRUS) himself, he did not, is not now and, also, will not accept any form of donation.
-
-His individual attitude is: It is purely public interest to create and maintain this repository. Maybe he just leaves whenever he feels tired: no donation, no expectation.
-
-Feel free to donate to the rest of organization members.

@@ -1,8 +1,6 @@
-## Workflow 工作流程
+## 工作流程
 
 ---
-
-Here is basic workflow for this repository:
 
 此处展示本项目基本工作流程：
 
