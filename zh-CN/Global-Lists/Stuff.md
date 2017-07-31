@@ -43,3 +43,7 @@
 <img src="https://avatars3.githubusercontent.com/u/12028138?v=3&s=50"/>
 
 [ysc3839 (Richard Yu)](https://github.com/ysc3839): A student who love programming
+
+<img src="https://avatars0.githubusercontent.com/u/30582187?v=4&s=50"/>
+
+[fireatzhwiki (FireFeather)](https://github.com/fireatzhwiki): Totally new here >///<
