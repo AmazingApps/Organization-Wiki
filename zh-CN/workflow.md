@@ -4,7 +4,9 @@
 
 此处展示本项目基本工作流程：
 
-[![amazing Windows.png](https://s23.postimg.org/kmds02b3v/amazing_Windows.png)](https://postimg.org/image/beljjd41j/)
+![](../assets/workflow-zh-cn.svg)
+
+以上图表使用 Visio 2016 创建，源文件位于[此处](https://1drv.ms/u/s!AizihDl7_k2KkwzYSc-W30bSnXo5)
 
 #### Issues
 

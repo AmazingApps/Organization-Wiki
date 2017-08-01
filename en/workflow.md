@@ -4,7 +4,9 @@
 
 Here is basic workflow for this repository:
 
-[![amazing Windows.png](https://s23.postimg.org/kmds02b3v/amazing_Windows.png)](https://postimg.org/image/beljjd41j/)
+![](../assets/workflow.svg)
+
+The chart above is created by Visio 2016. The source file is available [here](https://1drv.ms/u/s!AizihDl7_k2KkwtgtqJk94n5C8Sd)
 
 #### Issues
 
