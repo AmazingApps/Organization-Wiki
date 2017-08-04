@@ -4,6 +4,14 @@
 
 [EMLVIRUS](https://github.com/EMLVIRUS): yet another fair loser
 
+<img src="https://avatars0.githubusercontent.com/u/30582187?v=4&s=50"/>
+
+[fireatzhwiki (FireFeather)](https://github.com/fireatzhwiki): Totally new here >///<
+
+<img src="https://avatars0.githubusercontent.com/u/13086421?v=3&s=50"/>
+
+[gloomy-ghost](https://github.com/gloomy-ghost): our mascot
+
 <img src="https://avatars1.githubusercontent.com/u/2649544?v=3&s=50" width="50px" height="50px" />
 
 [ivysrono](https://github.com/ivysrono): 加班狗不配有介绍
@@ -43,7 +51,3 @@
 <img src="https://avatars3.githubusercontent.com/u/12028138?v=3&s=50"/>
 
 [ysc3839 (Richard Yu)](https://github.com/ysc3839): A student who love programming
-
-<img src="https://avatars0.githubusercontent.com/u/30582187?v=4&s=50"/>
-
-[fireatzhwiki (FireFeather)](https://github.com/fireatzhwiki): Totally new here >///<
