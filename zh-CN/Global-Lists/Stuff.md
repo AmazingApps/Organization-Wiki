@@ -8,7 +8,7 @@
 
 [fireatzhwiki (FireFeather)](https://github.com/fireatzhwiki): Totally new here >///<
 
-<img src="https://avatars0.githubusercontent.com/u/13086421?v=3&s=50"/>
+<img src="https://avatars0.githubusercontent.com/u/13086421?v=3&s=50" width="50px" height="50px" />
 
 [gloomy-ghost](https://github.com/gloomy-ghost): our mascot
 
