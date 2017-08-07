@@ -23,7 +23,7 @@ Any contribution to the repository is always welcome and grateful. If you expect
         * Please use h3 to write the app name with link to official site, with icons followed
             * If download page is different from homepage, write down official home & download page separately with h6 in another line (in which case, do not attach official link in the same line with the app name).
             * Icons are under `assets` folder. Use with relevant path with extension names.
-                * Please [contact owner](https://t.me/EMLVIRUS) if a new logo is required for UI language in a specific app
+                * Please [contact owner](https://t.me/Engorgio) if a new logo is required for UI language in a specific app
                 * Arrange the logos in such order: free→open source→supported languages→portable→multi-platform→CLI
                 * If this app is open source, set the title property of the image to: `license@host site: open source address`
         * Descibe the app in short: **complete & brief conclusion** is really critical to an awesome list
