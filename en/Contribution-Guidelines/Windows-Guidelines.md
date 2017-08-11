@@ -8,7 +8,7 @@ Any contribution to the repository is always welcome and grateful. If you expect
     1. Please confirm that the app meets requirements from [README](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/README.md)
     2. Provide suggested category & link to official site
     3. A piece of brief and conclusive description is recommended
-    4. More information is also recommended: whether the app is free, open sourced, portable, localized or not, operated by GUI or CLI.
+    4. More information is also recommended: whether the app is free, open sourced, portable, localized or not, operated by GUI or CLI, available from Windows store,etc.
 
 * Create an issue to remove an existing app:
     1. Please point out which condition in [README](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/README.md) is satisfied.
@@ -24,11 +24,11 @@ Any contribution to the repository is always welcome and grateful. If you expect
             * If download page is different from homepage, write down official home & download page separately with h6 in another line (in which case, do not attach official link in the same line with the app name).
             * Icons are under `assets` folder. Use with relevant path with extension names.
                 * Please [contact owner](https://t.me/Engorgio) if a new logo is required for UI language in a specific app
-                * Arrange the logos in such order: free→open source→supported languages→portable→multi-platform→CLI
+                * Arrange the logos in such order: free→open source→supported languages→portable→multi-platform→CLI→Windows store
                 * If this app is open source, set the title property of the image to: `license@host site: open source address`
         * Descibe the app in short: **complete & brief conclusion** is really critical to an awesome list
     3. if the app creator's nationality is Chinese (including Hong Kong, Macow & Taiwan), please copy it to [china's app.md](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/china-apps.md) unless the creator asked you not to
-    4. Please add extra desciption in another line if the app: 
+    4. Please add extra desciption in another line if the app:
         1. downloads or bundles other harmless apps
         2. (is still maintained but) do not receive update for a long time and there are no known bugs; strike it through if it is unclear whether it is still being maintained.
         3. requires other libraries than C++ Runtime, .Net framework, such as Java
